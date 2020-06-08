@@ -1,3 +1,8 @@
+https://github.com/ruddra/docker-django
+is the source for the most work
+i applied dev and prod stages from 
+https://thestartupfactory.tech/journal/how-to-fully-utilise-docker-compose-during-development
+
 # Deploy Django using Nginx, Celery, Redis and Postgresql with Docker
 
 A boilerplate to deploy Django with cool stuff. Also serves as an example project from these tutorial:
